@@ -1,5 +1,5 @@
 TeLeGrAm: @i4m_DYNO
 
 
-u|0|_|a|3|1|0   DYNO OWNER
+u|0|_|a|3|1|1   DYNO OWNER
 u|0|_|a|2|1|6   1 DAY

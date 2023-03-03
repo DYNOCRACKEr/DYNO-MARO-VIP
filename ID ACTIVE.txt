@@ -2,4 +2,4 @@ TeLeGrAm: @i4m_DYNO
 
 
 u|0|_|a|3|1|1   DYNO OWNER
-u|0|_|a|2|1|6   1 DAY
+u|0|_|a|6|8|1   DYNO OWNER
